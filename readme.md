@@ -1,0 +1,1 @@
+The purpose of the code is to scrap the email, get the content from the email, generate a summary using the extracted text, save it in the MySQL database, and auto-reply an email to the sender.

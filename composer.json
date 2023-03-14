@@ -1,0 +1,6 @@
+{
+    "require": {
+        "orhanerday/open-ai": "^3.5",
+        "phpmailer/phpmailer": "^6.8"
+    }
+}
